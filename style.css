@@ -1,0 +1,31 @@
+body
+{
+    background: coral;
+}
+#player1_name_input
+{
+border-radius: 10px;
+height: 30px;
+width: 300px;
+}
+#player2_name_input
+{
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+}
+h1
+{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button
+{
+    font-size:medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+}
